@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+psutil
+requests
+flask
+qrcode
+Pillow
+cryptography
+gunicorn
